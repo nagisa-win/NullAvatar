@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "filesystem",
+    "fetch",
+    "github",
+    "chrome-devtools",
+    "time"
+  ],
+  "enableAllProjectMcpServers": true
+}

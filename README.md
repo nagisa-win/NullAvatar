@@ -52,6 +52,22 @@ NullAvatar 透明头像
 
 ---
 
+## 功能：
+
+1. 默认上传透明图片(64x64 png)
+2. 在 `sdcard/NullAvatar.png` 保存自定义头像，可自动hook替换
+    - 推荐使用macOS/iOS系统预览/相册进行主体抠图，然后使用GIMP/PS等工具创建一个正方形透明底图，调整好主体位置后保存到 `sdcard/NullAvatar.png`
+    - 开发者 [@渚酱](https://github.com/nagisa-win)
+
+---
+
+## App 支持：
+
+实测如下：
+- 微信 8.0.60
+- 小红书 9.3.0
+- Amap 16.07.2.1102 （被重置）
+
 ## 致谢:
 
 | Name        | Link                                                      |
